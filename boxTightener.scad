@@ -23,8 +23,8 @@ THE SOFTWARE.
 
 */
 
-//Number of faces, set to 200 for final rendering
-$fn = 50;
+//Number of faces, set to 150 for final rendering
+$fn = 150;
 
 //Define parameters
 lenght=50;
